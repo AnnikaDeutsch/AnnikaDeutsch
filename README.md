@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnnikaDeutsch
 - 👀 I’m interested in Astronomy, particularly in observations of radio transients, including supernovae and pulsars!!
-- 🌱 I’m currently a first-year astronomy grad student at the University of Virginia 
+- 🌱 I’m a second-year astronomy grad student at the University of Virginia 
 - 📫 How to reach me:
     - via email: xgw5dw@virginia.edu, or adeutsch@nrao.edu, or amd397@cornell.edu
     - think that's it for now... :)
